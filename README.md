@@ -33,4 +33,18 @@ A simple yet powerful **Weather Application** built with **JavaScript**, **HTML*
 2. Run the index.html file
 
 3. Your APP is ready 🎉
-   
+
+## 📸 Screenshots
+
+### 🔍 Search Weather by Location
+![Search Weather Screenshot](./assets/search-weather.png)
+
+### 📍 My Location Weather
+![My Location Screenshot](./assets/my-location-weather.png)
+
+### 🌡️ Weather Data Display
+![Weather Data Screenshot](./assets/weather-data.png)
+
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome! 
